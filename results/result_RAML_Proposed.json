@@ -1,0 +1,22 @@
+{
+    "RAML_Proposed": {
+        "mean_auroc": 94.09,
+        "details": {
+            "bottle": 100.00,
+            "cable": 85.09,
+            "capsule": 94.55,
+            "carpet": 100.00,
+            "grid": 100.00,
+            "hazelnut": 91.07,
+            "leather": 100.00,
+            "metal_nut": 97.89,
+            "pill": 89.66,
+            "screw": 86.57,
+            "tile": 100.00,
+            "toothbrush": 83.33,
+            "transistor": 84.38,
+            "wood": 100.00,
+            "zipper": 98.81
+        }
+    }
+}

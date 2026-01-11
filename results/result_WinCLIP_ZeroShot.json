@@ -1,0 +1,22 @@
+{
+    "WinCLIP_ZeroShot": {
+        "mean_auroc": 86.98,
+        "details": {
+            "bottle": 94.48,
+            "cable": 85.13,
+            "capsule": 68.18,
+            "carpet": 99.55,
+            "grid": 98.39,
+            "hazelnut": 95.89,
+            "leather": 100.00,
+            "metal_nut": 57.79,
+            "pill": 73.52,
+            "screw": 64.90,
+            "tile": 99.78,
+            "toothbrush": 91.11,
+            "transistor": 86.14,
+            "wood": 98.15,
+            "zipper": 91.67
+        }
+    }
+}

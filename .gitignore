@@ -1,0 +1,13 @@
+
+# Checkpoints tracked by LFS
+# checkpoints/*.pt - Now using Git LFS
+
+# Ignore pycache
+__pycache__/
+*.pyc
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore results if large? No, json is small.

@@ -1,0 +1,22 @@
+{
+    "Fixed_Margin_0.5": {
+        "mean_auroc": 87.99,
+        "details": {
+            "bottle": 98.08,
+            "cable": 77.63,
+            "capsule": 79.09,
+            "carpet": 100.00,
+            "grid": 100.00,
+            "hazelnut": 73.21,
+            "leather": 100.00,
+            "metal_nut": 97.89,
+            "pill": 72.41,
+            "screw": 62.96,
+            "tile": 100.00,
+            "toothbrush": 88.89,
+            "transistor": 79.17,
+            "wood": 100.00,
+            "zipper": 90.48
+        }
+    }
+}

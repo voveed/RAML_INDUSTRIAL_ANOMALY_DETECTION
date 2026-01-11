@@ -1,0 +1,19 @@
+{
+    "VisA_Transfer": {
+        "mean_auroc": 72.44,
+        "details": {
+            "candle": 85.14,
+            "capsules": 58.76,
+            "cashew": 56.84,
+            "chewinggum": 95.73,
+            "fryum": 81.57,
+            "macaroni1": 66.35,
+            "macaroni2": 65.76,
+            "pcb1": 67.19,
+            "pcb2": 59.08,
+            "pcb3": 66.03,
+            "pcb4": 87.72,
+            "pipe_fryum": 79.05
+        }
+    }
+}
